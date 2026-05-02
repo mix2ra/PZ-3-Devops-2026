@@ -1,6 +1,7 @@
-# PZ-2-Devops-20266
+# PZ-2-Devops-2026
+___
 Завдання #2. Написати скріпт мовою програмування Bash
-
+___
 Виконання
 
 <img width="979" height="531" alt="{43529D2F-AA77-44DC-82A7-C2ED2D622EFD}" src="https://github.com/user-attachments/assets/22ca7ae6-b041-4187-a101-b420c4895164" />
